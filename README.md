@@ -1,4 +1,4 @@
-# Getting Started with Taskify
+# Getting Started with React Dashboard
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -19,4 +19,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `Tech stack`
 
-React, fullCalendar, Nivo, Formik
+React, fullCalendar, Nivo, Formik, react-pro-sidebar
